@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "'": "file:awesome.me/kit-KIT_CODE@latest'",
+    "@fortawesome/fontawesome-free": "^7.0.1",
+    "@fortawesome/fontawesome-svg-core": "^7.0.1",
+    "@fortawesome/free-brands-svg-icons": "^7.0.1",
+    "@fortawesome/free-regular-svg-icons": "^7.0.1",
+    "@fortawesome/free-solid-svg-icons": "^7.0.1",
+    "bootstrap": "^5.3.8",
+    "sweetalert2": "^11.23.0"
+  }
+}
