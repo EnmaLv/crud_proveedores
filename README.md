@@ -7,3 +7,5 @@ npm i bootstrap@5.3.8
 npm install sweetalert2
 <br>
 npm install --save @fortawesome/fontawesome-free
+<br>
+npm install
