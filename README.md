@@ -1,5 +1,6 @@
 "Para ver el diseño del proyeto ejecuten lo siguiente:"
-"\nnpm install"
-"\nnpm i bootstrap@5.3.8"
-"\nnpm install sweetalert2"
-"\nnpm install --save @fortawesome/fontawesome-free"
+\n
+"npm install"
+"npm i bootstrap@5.3.8"
+"npm install sweetalert2"
+"npm install --save @fortawesome/fontawesome-free"
